@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440924261887",
+    "project_id": "warshtyflutter",
+    "storage_bucket": "warshtyflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440924261887:android:587128798cf46353c6ebca",
+        "android_client_info": {
+          "package_name": "com.example.warshtyflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440924261887-1ec1th14p95oj6cq34rn8ps4ei7vgs0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpaZAkECqxPA9__ur_BXqEQEWUAgwE8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440924261887-1ec1th14p95oj6cq34rn8ps4ei7vgs0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
